@@ -37,13 +37,13 @@ const Contact = () => {
         </p>
         <div className="flex justify-center space-x-4 text-2xl">
           <a
-            href="chaudharypiyush596@gmail.com"
+            href="k.ranjansinghji@gmail.com"
             className="text-teal-400 hover:text-teal-300"
           >
             <i className="fas fa-envelope"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/harsh-chaudhary-b9826229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            href="https://www.linkedin.com/in/kumar-ranjan-singh-b8652a23b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-400 hover:text-blue-300"
@@ -51,7 +51,7 @@ const Contact = () => {
             <i className="fab fa-linkedin"></i>
           </a>
           <a
-            href="https://github.com/piyush1740x"
+            href="https://github.com/imranjan1402"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-white"
@@ -59,7 +59,7 @@ const Contact = () => {
             <i className="fab fa-github"></i>
           </a>
           <a
-            href="https://www.instagram.com/piyush_up_gkp/"
+            href="https://www.instagram.com/imranjan1402/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-pink-400 hover:text-pink-300"
