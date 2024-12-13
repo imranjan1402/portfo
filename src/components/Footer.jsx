@@ -44,7 +44,7 @@ const footer = () => {
             </svg>
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/imranjan1402"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-white"
