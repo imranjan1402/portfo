@@ -21,7 +21,7 @@ const Main = () => {
                   words={[
                     "BCA Last Year Student",
                     "Web Developer",
-                    "Working as a network security engineer",
+                    "network security engineer",
                     "Problem Solver",
                     "UI UX Designer",
                   ]}
@@ -35,7 +35,7 @@ const Main = () => {
               </span>
             </h3>
             <p className="text-lg md:text-xl text-gray-200 leading-relaxed">
-              I'm a passionate network security engineer
+              I'm working as a network security engineer
             </p>
             <div className="flex justify-center md:justify-start space-x-4 text-3xl mt-6">
           
