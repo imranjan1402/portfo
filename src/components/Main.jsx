@@ -12,14 +12,14 @@ const Main = () => {
               <span className="font-bold  text-green-500">Ranjan</span>
             </h1>
             <h2 className="text-4xl md:text-5xl font-extrabold leading-snug text-shadow-lg">
-              Welcome to My Portfolio
+              Welcome to My Portfolio site 
             </h2>
             <h3 className="text-2xl font-medium text-gray-100">
               I'm a{" "}
               <span className="font-extrabold text-yellow-300">
                 <Typewriter
                   words={[
-                    "Student",
+                    "BCA Last Year Student",
                     "Web Developer",
                     "network security engineer",
                     "Problem Solver",
