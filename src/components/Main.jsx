@@ -21,7 +21,7 @@ const Main = () => {
                   words={[
                     "BCA Last Year Student",
                     "Web Developer",
-                    "network security engineer",
+                    "Working as a network security engineer",
                     "Problem Solver",
                     "UI UX Designer",
                   ]}
